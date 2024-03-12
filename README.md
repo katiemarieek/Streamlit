@@ -1,8 +1,9 @@
-# Streamlit
-A repository used for containing trial streamlit builds
+# Streamlit Silliness
 
-Be warned, no useful information will be garnered from these apps.
+A repository  for hosting trial streamlit builds
+
+~ Be warned, no useful information will be garnered from these apps. ~
 
 https://push-my-button.streamlit.app/
 
-
+https://colour-chooser.streamlit.app/
